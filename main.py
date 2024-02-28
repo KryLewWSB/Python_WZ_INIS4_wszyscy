@@ -1,2 +1,3 @@
-print("Ala", "ma", "kota", sep=" ", end="  .")
-
+liczba = 6
+print(f"Liczba: {liczba}")
+print("Liczba:", liczba)
