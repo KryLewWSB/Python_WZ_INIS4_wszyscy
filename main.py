@@ -1,1 +1,2 @@
-print("Hello world")
+print("Ala", "ma", "kota", sep=" ", end="  .")
+
