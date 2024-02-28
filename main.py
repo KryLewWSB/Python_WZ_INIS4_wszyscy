@@ -1,3 +1,3 @@
-liczba = 6
-print(f"Liczba: {liczba}")
-print("Liczba:", liczba)
+liczbaPopulacji = 500_000
+liczbaPopulacji2 = 500000
+print(liczbaPopulacji, " ", liczbaPopulacji2)
