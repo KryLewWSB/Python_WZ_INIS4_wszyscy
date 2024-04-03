@@ -1,7 +1,8 @@
 
 #Definicja funkcji dodaj:
-def dodaj():
-    print(2 + 5)
-    print(3 + 3)
+def dodaj(liczba1, liczba2):
+    print(liczba1 + liczba2)
 
-dodaj() #Wywolanie funkcji dodaj
+
+dodaj(2, 5) #Wywolanie funkcji dodaj z parametrami
+dodaj(5, 5) #Wywolanie funkcji dodaj z parametrami
